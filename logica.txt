@@ -1,0 +1,3 @@
+crear tareas 
+asignar fechas de vencimiento
+marcar tareas como completadas 

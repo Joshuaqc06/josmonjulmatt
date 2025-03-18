@@ -1,0 +1,11 @@
+La interfaz será intuitiva y minimalista, facilitando la organización eficiente de tareas.
+
+Principales Pantallas:
+	•	Inicio/Dashboard: Vista general de tareas, progreso y accesos rápidos.
+	•	Creación/Edición de Tareas: Agregar título, descripción, fecha, prioridad, subtareas y recordatorios.
+	•	Modos de Visualización: Lista, calendario y Kanban.
+	•	Proyectos/Carpetas: Organización de tareas y opción de colaboración.
+	•	Notificaciones/Recordatorios: Alertas personalizables.
+	•	Integraciones y Configuración: Sincronización con calendarios, personalización y seguridad con autenticación biométrica.
+
+La app prioriza la usabilidad y accesibilidad, optimizando la gestión del tiempo del usuario.
